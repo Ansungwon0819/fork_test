@@ -1,0 +1,6 @@
+cd C:\Users\user\eclipse-workspace\prj03
+git init
+git remote add origin https://github.com/Ansungwon0819/~~~~~.git
+git add .
+git commit -m "~~~~~~~"
+git push origin master
